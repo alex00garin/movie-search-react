@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-search-react/static/css/main.c1111d6c.css",
+    "main.js": "/movie-search-react/static/js/main.2a52707d.js",
+    "static/media/knight.jpg": "/movie-search-react/static/media/knight.57b8bcd34cd9935800dd.jpg",
+    "static/media/matrix.jpg": "/movie-search-react/static/media/matrix.874c36d00d9ec6af151c.jpg",
+    "static/media/inception.jpg": "/movie-search-react/static/media/inception.0a2895d69f1a77afa399.jpg",
+    "static/media/avengers.jpg": "/movie-search-react/static/media/avengers.ddd285562a2f17089bd0.jpg",
+    "static/media/interstellar.jpg": "/movie-search-react/static/media/interstellar.1937c3a7f62bbda3e6e1.jpg",
+    "static/media/shawshank.jpg": "/movie-search-react/static/media/shawshank.248b78b519943052da0e.jpg",
+    "static/media/fightclub.jpg": "/movie-search-react/static/media/fightclub.f7f265a8ed65815a7c3c.jpg",
+    "static/media/lionking.jpg": "/movie-search-react/static/media/lionking.7303cc388e48ab8f90e1.jpg",
+    "static/media/pulpfiction.jpg": "/movie-search-react/static/media/pulpfiction.7606f354b83f5e765de4.jpg",
+    "static/media/forrestgump.jpg": "/movie-search-react/static/media/forrestgump.6e5794dcf50c6853d570.jpg",
+    "static/media/goodfellas.jpg": "/movie-search-react/static/media/goodfellas.0d3d75c6f3a4b8bb1511.jpg",
+    "static/media/godfather.jpg": "/movie-search-react/static/media/godfather.20aee95d79cab16b7883.jpg",
+    "index.html": "/movie-search-react/index.html",
+    "main.c1111d6c.css.map": "/movie-search-react/static/css/main.c1111d6c.css.map",
+    "main.2a52707d.js.map": "/movie-search-react/static/js/main.2a52707d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1111d6c.css",
+    "static/js/main.2a52707d.js"
+  ]
+}
